@@ -2,9 +2,10 @@
 
 using namespace std;
 
-int main(){
+main(){
 
-  cout<<"jude"<<endl;
+
+  cout << "Jude" << endl;
 
   return 0;
 }
