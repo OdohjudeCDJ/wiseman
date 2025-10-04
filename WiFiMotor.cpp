@@ -1,4 +1,4 @@
-#include "WiFiMotor.h"   //include the WiFiMotor lheader file to invocaton and working with the WiFiMotor class.
+#include "WiFiMotor.h"   //include the WiFiMotor header file to invocaton and working with the WiFiMotor class.
 
 //this means that the constructor "WiFiMotor(){}" is a member of the WiFiMotor class
 // "::" here symbolizes membership.
